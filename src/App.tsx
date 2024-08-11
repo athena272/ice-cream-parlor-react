@@ -1,3 +1,4 @@
+import React from 'react';
 import RoutesPage from './Routes/RoutesPage';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
